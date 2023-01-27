@@ -1,4 +1,5 @@
 program linear_transformation
+! property of ArkAngeL43
     implicit none
 
     ! Declare variables
